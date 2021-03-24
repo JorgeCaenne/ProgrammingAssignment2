@@ -45,3 +45,5 @@ cacheSolve(testmata_CM) # calc of the inverse or loading from cache
 testmatb_CM$getinverse() # Test if an inverse is already there
 cacheSolve(testmatb_CM) # calc of the inverse or loading from cache
 
+# End of Document
+
